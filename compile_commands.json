@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nesh/Downloads/slim/slim-use/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-14/include -I/usr/local/include/slim -I/home/nesh/Downloads/slim/slim-use/./include -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++14 -o CMakeFiles/cs-ssa.dir/main.cpp.o -c /home/nesh/Downloads/slim/slim-use/main.cpp",
+  "file": "/home/nesh/Downloads/slim/slim-use/main.cpp"
+}
+]
